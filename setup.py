@@ -19,9 +19,9 @@ setup(
     description="Generate low poly wallpapers",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    author="Subhrajit Prusty",
-    author_email="subhrajit1997@gmail.com",
-    url="http://github.com/SubhrajitPrusty/wallgen",
+    author="Jonas Kenke",
+    author_email="jonas.kenke@gmail.com",
+    url="https://github.com/JonasKenke/wallgen-with-higher-voxel-count",
     setup_requires=["setuptools>=40.0.0"],
     classifiers=[
         "Development Status :: 4 - Beta",
