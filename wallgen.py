@@ -49,7 +49,7 @@ logger.add(
     level="WARNING",
 )
 
-MAX_POINTS = 20000
+MAX_POINTS = 100000
 MIN_POINTS = 3
 
 
